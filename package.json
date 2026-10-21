@@ -1,0 +1,13 @@
+{
+  "name": "amul-telegram-bot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "once": "node bot.mjs once",
+    "serve": "node bot.mjs serve"
+  },
+  "dependencies": {
+    "playwright": "^1.55.0"
+  }
+}
